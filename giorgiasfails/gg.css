@@ -1,0 +1,124 @@
+body {
+    overflow-x: hidden;
+    margin:0 ;
+    background-color: rgb(255, 242, 224);
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 1.4rem;
+}
+.central-textlogo {
+    position: relative;
+    margin: 2.5rem auto 0.3rem;
+    width: 270px;
+    font-weight: 400;
+    line-height: 2.7rem;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.central-textlogo-wrapper {
+    display: inline-block;
+    vertical-align: bottom;  
+    margin-top: 1rem;
+}
+.localized-slogan {
+    font-size: 15px;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.central-featured-logo {
+    position: absolute;
+    top: 10rem;
+    right: 0.7rem;
+}
+hr, img {
+    border: 0;
+    vertical-align: middle;
+    height: 15rem;
+    width: 16rem;
+}
+.central-featured {
+    position: relative;
+    
+    height: 20rem;
+   
+    width: 54.6rem;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1rem;
+}
+.lang1 {
+    top: 0;
+    right: 60%;
+}
+.central-featured-lang {
+    position: absolute;
+    width: 156px;
+    width: 15.6rem;
+}
+.lang2 {
+    top: 0;
+    left: 60%;
+}
+.lang3 {
+    top: 20%;
+    right: 70%;
+}
+.lang4 {
+    top: 20%;
+    left: 70%;
+}
+.lang5 {
+    top: 40%;
+    right: 72%;
+}
+.lang6 {
+    top: 40%;
+    left: 72%;
+}
+.lang7 {
+    top: 60%;
+    right: 70%;
+}
+.lang8 {
+    top: 60%;
+    left: 70%;
+}
+.lang9 {
+    top: 80%;
+    right: 60%;
+}
+.lang10 {
+    top: 80%;
+    left: 60%;
+}
+.central-featured-lang .link-box {
+    display: block;
+    padding: 0;
+    text-decoration: none;
+    white-space: normal;
+}
+a{
+    unicode-bidi: embed;
+    outline: 0;
+    color: #36c;
+}
+.central-featured-lang small {
+    color: #54595d;
+    font-size: 0.8rem;
+}
+.central-featured-lang strong {
+    display: block;
+    font-size: 16px;
+    font-size: 1.2rem;
+}
+.localized-slogan {
+    display: block;
+    font-size: 1rem;
+}
+.svg-Wikipedia_wordmark{
+    color: #36c;
+    font-size: 3rem;
+    font-family: serif;
+}
