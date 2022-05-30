@@ -45,16 +45,20 @@
 }
 .projects{
     margin: 1rem;
+    text-decoration: none;
+    color: white;
     
 }
 .about{
-    
+    margin: 1.4rem;
     text-decoration: none;
     color: white;
     
 }
 .contact{
     margin: 1rem;
+    text-decoration: none;
+    color: white;
 }
 .astronautimage{
     width: 300px;
